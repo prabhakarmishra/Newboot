@@ -4,7 +4,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/prabhakarmishra123/MicroservicesTraining
+          uri: https://github.com/prabhakarmishra/Newboot.git
           #username: adff
           #password: okok
           searchPaths: ConfigData

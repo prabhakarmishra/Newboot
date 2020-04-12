@@ -4,7 +4,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/prabhakarmishra123/MicroservicesTraining
+          uri: https://github.com/prabhakarmishra/Newboot.git
           searchPaths: ConfigData
         # "native" is used when the native profile is active, for local tests with a classpath repo:
         native:
